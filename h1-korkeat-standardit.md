@@ -1,7 +1,7 @@
 ## h1 Korkeat standardit
 Tämä tehtävänanto sisältää Teron ja Lari Iso-Anttilan laatimia tehtäviä.
 
-### a) Tutustu kurssin sanastoon, joka on määritelty SFS-EN ISO/IEC 27000:2020:en standardissa, kappaleessa 3. Terms and Definitions. Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tarkoittavat: 3.2, 3.31, 3.56, 3.58, 3.77.
+#### a) Tutustu kurssin sanastoon, joka on määritelty SFS-EN ISO/IEC 27000:2020:en standardissa, kappaleessa 3. Terms and Definitions. Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tarkoittavat: 3.2, 3.31, 3.56, 3.58, 3.77.
 
 - 3.2 (`attack`)
   - yritys hyökätä kohdetta vastaan, oli tarkoituksena sitten tuhota, kaapata, paljastaa, muuttaa, paljastaa tai saada epäoikeutettu pääsy tietoon tai omaisuuteen
@@ -15,16 +15,16 @@ Tämä tehtävänanto sisältää Teron ja Lari Iso-Anttilan laatimia tehtäviä
   - haavoittuvuus kohteessa tai kontrollissa, jota voitaisiin hyväksikäyttää yhden tai useamman uhkan toimesta
 
 
-### b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
+#### b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
 
 Lyhykäisyydessään ISO/IEC 27034 standardi on ohjenuora kaiken kokoisille organisaatioille, joka auttaa niitä integroimaan turvallisuutta osaksi sovellusten elinkaarta, erilaisten ominaisuuksien ja määrittelyjen avulla. Se myös lujittaa organisaation tietoturvan eheyttä tukemalla muita standardeja.
 
 
-### c) Kuuntele podcast: Meurman 2021: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä (jakson mp3, Laatolöpinät RSS-syöte). Mitä mieltä olet podcastin väittämistä?
+#### c) Kuuntele podcast: Meurman 2021: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä (jakson mp3, Laatolöpinät RSS-syöte). Mitä mieltä olet podcastin väittämistä?
 
 
 
-### d) Asenna Debian 12-Bookworm virtuaalikoneeseen. Päivitä kaikki ohjelmat. (Poikkeuksellisesti tätä alakohtaa ei tarvitse raportoida, paitsi jos jokin ei toimi. Ympäristö tarvitaan seuraavalle oppitunnille. Joten tämän kohdan vastaukseksi riittää kuittaus, että Linux on asennettu.)
+#### d) Asenna Debian 12-Bookworm virtuaalikoneeseen. Päivitä kaikki ohjelmat. (Poikkeuksellisesti tätä alakohtaa ei tarvitse raportoida, paitsi jos jokin ei toimi. Ympäristö tarvitaan seuraavalle oppitunnille. Joten tämän kohdan vastaukseksi riittää kuittaus, että Linux on asennettu.)
 
 
 
