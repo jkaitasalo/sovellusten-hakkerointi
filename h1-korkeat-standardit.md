@@ -17,6 +17,7 @@ Tämä tehtävänanto sisältää Teron ja Lari Iso-Anttilan laatimia tehtäviä
 
 ### b) Tutustu standardiin ISO 27034-1 - 5. Selvitä mistä standardi kokonaisuudesta on kyse.
 
+Lyhykäisyydessään ISO/IEC 27034 standardi on ohjenuora kaiken kokoisille organisaatioille, joka auttaa niitä integroimaan turvallisuutta osaksi sovellusten elinkaarta, erilaisten ominaisuuksien ja määrittelyjen avulla. Se myös lujittaa organisaation tietoturvan eheyttä tukemalla muita standardeja.
 
 
 ### c) Kuuntele podcast: Meurman 2021: Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä (jakson mp3, Laatolöpinät RSS-syöte). Mitä mieltä olet podcastin väittämistä?
