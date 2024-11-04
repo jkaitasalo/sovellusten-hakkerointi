@@ -50,7 +50,7 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
   - Raportoinnin rakenne on tärkeää, jotta se on:
     - Toistettava
-      - Sen voi niillä ohjeilla toistaa joku muu ja päätyä tismalleen samoihin tuloksiin
+      - vain raportin ohjeiden mukaisesti joku muu päätyy samoihin tuloksiin
     - Täsmällinen
       - mikä komento?
       - mitä klikattu?
