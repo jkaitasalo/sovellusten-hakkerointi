@@ -17,7 +17,7 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 
 #### c) Ratkaise dirfuzt-1 artikkelista Karvinen 2023: [Find Hidden Web Directories - Fuzz URLs with ffuf.](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/) Tämä auttaa 020-your-eyes-only ratkaisemisessa.
 
-#### d) Murtaudu 020-your-eyes-only. Ks. Karvinen 2024: Hack'n Fix
+#### d) Murtaudu 020-your-eyes-only. Ks. Karvinen 2024: [Hack'n Fix](https://terokarvinen.com/hack-n-fix/)
 
 #### e) Korjaa 020-your-eyes-only haavoittuvuus. Osoita testillä, että ratkaisusi toimii.
 
