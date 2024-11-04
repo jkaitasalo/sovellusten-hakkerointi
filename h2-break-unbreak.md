@@ -30,14 +30,29 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
     - `-ft`  duration (ms)
 
 - PortSwigger: [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
-  - 
+  - Pääsynvalvonta koostuu kolmesta osasta:
+    - Authentication (autentikaatio) varmistaa käyttäjän olevan kuka se väittää olevan
+    - Session management (sessionhallinta) tunnistaa, että autentikaatiota seuraavat pyynnöt ovat samalta käyttäjältä
+    - Access control (pääsynvalvonta) varmistaa onko käyttäjällä ylipäätään pääsy/oikeudet osaan sivustoa/toimintoja
+  - Virhe tai bugi pääsynvalvonnassa on kriittinen vaara verkkosivuston/ohjelmiston turvallisuudelle
+  - Vertical access controls (vertikaaliset pääsyvalvonnan kontrollit)
+    - pääosin käyttäjäpohjaiset kontrollit
+    - esim Admin ja perus käyttäjän oikeudet ovat todella eri
+  - Horizontal access controls (horisontaaliset pääsyvalvonnan kontrollit)
+    - käyttäjillä on samantasoiset oikeudet resurssiin mutta eri osaan siitä
+    - esimerkiksi käyttäjällä on pääsy ja oikeus siirtää omalta tililtään rahaa, mutta ei muiden käyttäjien tileiltä
+  - Context-dependent access controls (kontekstiriippuvaiset pääsyvalvonnan kontrollit)
+    - säätää käyttäjän oikeuksia riippuen siitä minkä vaiheen kanssa käyttäjä on tekemisissä applikaatiossa
+    - esimerkiksi käyttäjä ei voi muuttaa ostoskorin sisältöä maksun jälkeen
+  - Pääsynvalvonnan heikko eheys luo vaaroja ja haavoittuvuksia, joita mahdollinen hyökkääjä pystyy hyväksikäyttämään
+  - horisontaalinen ja vertikaalinen pääsynvalvonta ja sen eheys on tärkeää, sillä niiden välillä on mahdollista joissain tapauksissa siirtyä
 
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
   - 
 
 - Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
-
+---
 #### a) Murtaudu 010-staff-only. Ks. Karvinen 2024: [Hack'n Fix](https://terokarvinen.com/hack-n-fix/)
 
 
