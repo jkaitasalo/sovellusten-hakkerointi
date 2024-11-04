@@ -55,6 +55,7 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 ---
 ---
 palautus keskeneräisenä ja myöhässä
+
 ---
 ---
 #### a) Murtaudu 010-staff-only. Ks. Karvinen 2024: [Hack'n Fix](https://terokarvinen.com/hack-n-fix/)
