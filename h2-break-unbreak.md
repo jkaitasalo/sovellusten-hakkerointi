@@ -48,7 +48,28 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
   - horisontaalinen ja vertikaalinen pääsynvalvonta ja sen eheys on tärkeää, sillä niiden välillä on mahdollista joissain tapauksissa siirtyä
 
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
-  - 
+  - Raportoinnin rakenne on tärkeää, jotta se on:
+    1. Toistettava
+      - Sen voi niillä ohjeilla toistaa joku muu ja päätyä tismalleen samoihin tuloksiin
+    3. Täsmällinen
+      - mikä komento?
+      - mitä klikattu?
+      - kellonajat?
+      - onnistuiko?
+      - eri viat?
+      - menneen aikamuodon käyttö
+    5. Helppolukuinen
+      - otsikointi
+      - kielioppi
+      - kanavaan sopiva kieliasu
+      - tiivistelmä plussaa
+    6. Viittaa lähteisiin
+      - yleisesti hyvä tapa ja akateeminen käytäntö vaatii sitä
+
+- Pahoja mokia:
+  - selittely / valehtelu
+  - plagiointi
+  - kuvien luvaton käyttö (tekijänoikeudet)
 
 - Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
