@@ -5,11 +5,11 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 
 
 #### x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
-- OWASP: OWASP Top 10: A01 Broken Access Control
-- Karvinen 2023: Find Hidden Web Directories - Fuzz URLs with ffuf
-- PortSwigger: Access control vulnerabilities and privilege escalation
-- Karvinen 2006: Raportin kirjoittaminen
-- Vapaaehtoinen: PortSwigger 2020: What is SQL injection? - Web Security Academy (noin 10 min video)
+- OWASP: OWASP Top 10: [A01 Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+- Karvinen 2023: [Find Hidden Web Directories - Fuzz URLs with ffuf](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
+- PortSwigger: [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
+- Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
+- Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
 #### a) Murtaudu 010-staff-only. Ks. Karvinen 2024: Hack'n Fix
 
