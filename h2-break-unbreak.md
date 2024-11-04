@@ -19,7 +19,16 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
     - Lyhytikäisten JWT-tokenien käyttö on suositeltavaa
 
 - Karvinen 2023: [Find Hidden Web Directories - Fuzz URLs with ffuf](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/)
-  - 
+  - Verkkohakemistoissa on usein "salaisia" endpointeja (esim. /admin, /salaisuus)
+  - FUFF on verkko fuzzer, joka "fuzzaa" piilotettuja hakemistoja ja jopa muita osia (headerit, POST parametrit yms.) verkkosivuilta
+  - FUFF kanssa voi käyttää hyväksi sanalistaa, jolla voi etukäteen määritettyjä esim. yleisiä hakemistoja hakea todella nopeasti
+  - filttereillä voidaan sulkea tuloksista ulos yleisimmät vastaukset ja keskittyä poikkeamiin
+  - esimerkkejä filttereistä:
+    - `-fs`  size
+    - `-fc`  status
+    - `-fw`  words
+    - `-fl`  lines
+    - `-ft`  duration (ms)
 
 - PortSwigger: [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
