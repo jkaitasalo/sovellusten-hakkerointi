@@ -53,6 +53,8 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 - Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
 ---
+---
+---
 #### a) Murtaudu 010-staff-only. Ks. Karvinen 2024: [Hack'n Fix](https://terokarvinen.com/hack-n-fix/)
 
 
