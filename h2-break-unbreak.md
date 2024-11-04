@@ -49,21 +49,21 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
 
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
   - Raportoinnin rakenne on tärkeää, jotta se on:
-    1. Toistettava
+    - 1. Toistettava
       - Sen voi niillä ohjeilla toistaa joku muu ja päätyä tismalleen samoihin tuloksiin
-    3. Täsmällinen
+    - 3. Täsmällinen
       - mikä komento?
       - mitä klikattu?
       - kellonajat?
       - onnistuiko?
       - eri viat?
       - menneen aikamuodon käyttö
-    5. Helppolukuinen
+    - 5. Helppolukuinen
       - otsikointi
       - kielioppi
       - kanavaan sopiva kieliasu
       - tiivistelmä plussaa
-    6. Viittaa lähteisiin
+    - 6. Viittaa lähteisiin
       - yleisesti hyvä tapa ja akateeminen käytäntö vaatii sitä
   - Pahoja mokia:
     - selittely / valehtelu
