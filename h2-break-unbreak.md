@@ -22,8 +22,7 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
   - Verkkohakemistoissa on usein "salaisia" endpointeja (esim. /admin, /salaisuus)
   - FUFF on verkko fuzzer, joka "fuzzaa" piilotettuja hakemistoja ja jopa muita osia (headerit, POST parametrit yms.) verkkosivuilta
   - FUFF kanssa voi käyttää hyväksi sanalistaa, jolla voi etukäteen määritettyjä esim. yleisiä hakemistoja hakea todella nopeasti
-  - filttereillä voidaan sulkea tuloksista ulos yleisimmät vastaukset ja keskittyä poikkeamiin
-  - esimerkkejä filttereistä:
+  - filttereillä voidaan sulkea tuloksista ulos yleisimmät vastaukset ja keskittyä poikkeamiin. Esimerkkejä filttereistä:
     - `-fs`  size
     - `-fc`  status
     - `-fw`  words
@@ -31,7 +30,11 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
     - `-ft`  duration (ms)
 
 - PortSwigger: [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
+  - 
+
 - Karvinen 2006: [Raportin kirjoittaminen](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
+  - 
+
 - Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
 
