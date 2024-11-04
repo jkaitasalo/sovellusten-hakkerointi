@@ -65,11 +65,10 @@ Muista systemaattinen työtapa ja raportoi tehdessä. Kannattaa myös reflektoid
       - tiivistelmä plussaa
     6. Viittaa lähteisiin
       - yleisesti hyvä tapa ja akateeminen käytäntö vaatii sitä
-
-- Pahoja mokia:
-  - selittely / valehtelu
-  - plagiointi
-  - kuvien luvaton käyttö (tekijänoikeudet)
+  - Pahoja mokia:
+    - selittely / valehtelu
+    - plagiointi
+    - kuvien luvaton käyttö (tekijänoikeudet)
 
 - Vapaaehtoinen: PortSwigger 2020: [What is SQL injection? - Web Security Academy](https://www.youtube.com/watch?v=wX6tszfgYp4) (noin 10 min video)
 
