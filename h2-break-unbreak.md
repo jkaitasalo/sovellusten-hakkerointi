@@ -89,13 +89,16 @@ palautus keskeneräisenä ja myöhässä
 - Tämän jälkeen latasin itselleni kopion [Daniel Miesslerin](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt) sanalistasta `common.txt`, joka sisältää "yleisimmät" hakemistot
 - Seuraavaksi latasin haaste-binäärin dirfuzt-1 [terokarvinen.com:sta](https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/) (sivun lopussa) `wget`:llä
 - Tämän jälkeen kasaus ja käynnistys komennoilla `chmod u+x dirfuzt-1` ja `./dirfuzt-1`, jolloin kohde lähti pyörimään:
+
 ![image](https://github.com/user-attachments/assets/9a8636e3-9d2f-4ebd-9dee-2de88d116eb6)
 - Annoin ffuf:lla komennon `./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ`
   - `-w common.txt` -w parametri antaa sanalistan, tässä tapauksessa `common.txt`, jota ajetaan asetettua FUZZ avainsanan paikkaa vastaan
   - `-u` parametri antaa kohdeosoitteen, jossa `FUZZ` antaa paikan osoiterivillä, johon ajetaan sanalistaa
+  
 ![image](https://github.com/user-attachments/assets/59631a5c-5d76-423d-b424-c596cc4ec082)
 - Tällä komennolla ffuf ajoi koko sanalistan läpi, eli n. 4700 sanaa ja ruutu täyttyikin tuloksista, joista suurin osa oli koon 154 omaavia osumia
 - Koetin uudestaan antamalla lisäparametrinä filtterin `-fs 154`, joka filtteröi koon perusteella kaikki koot 154 pois.
+
 ![image](https://github.com/user-attachments/assets/7c90e091-ca83-4c6f-9098-6bb4d270db33)
 - Tällä haulla löytyi muutama osuma ja päätin navigoida osoiteriviltä `http://127.0.0.2:8000/wp-admin`, ja ruudulle ilmestyikin lippu!
   - Osoitteeseen olisi toki voinut kurkata komennolla `curl http://127.0.0.2:8000/wp-admin`
