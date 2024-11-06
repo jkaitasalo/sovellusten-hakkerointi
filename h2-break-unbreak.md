@@ -104,7 +104,7 @@ palautus keskeneräisenä ja myöhässä
 
 ![image](https://github.com/user-attachments/assets/45ce362b-f4b6-4200-8533-85448d34d0d9)
 
-- Tällä selityksellä, lähdin kokeilemaan eri arvopareja ja lopulta osuinkin oikean kohdalle komennolla: `'OR 1=1 LIMIT 2,1; --`
+- Tällä selityksellä, lähdin kokeilemaan eri arvopareja ja lopulta osuinkin oikean kohdalle komennolla: <br> `'OR 1=1 LIMIT 2,1; --`
 
 ![image](https://github.com/user-attachments/assets/428ec360-7553-446c-8147-3bd1a013d6dc)
 
