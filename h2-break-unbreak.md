@@ -91,7 +91,7 @@ palautus keskeneräisenä ja myöhässä
 
 ![image](https://github.com/user-attachments/assets/7fc0ef01-9f6e-42e8-bcd2-84e8f053726d)
 
-- Tämän jälkeen yritin kirjoittaa SQL injektiota suoraan tekstikenttään, mutta kenttä suostui vastaanottamaan vain numeroita. Sivun lähdekoodia tutkimalla Firefoxin inspect-työkalulla löysin kentän kohdan koodista ja muutin input-kentän tyypin number->text, joka mahdollistaa ei-numeroiden syöttämisen ja lähettämisen.
+- Tämän jälkeen yritin kirjoittaa SQL injektiota suoraan tekstikenttään, mutta kenttä suostui vastaanottamaan vain numeroita. Sivun lähdekoodia tutkimalla Firefoxin inspect-työkalulla löysin kentän kohdan koodista ja muutin input-kentän tyypin "number" -> "text", joka mahdollistaa ei-numeroiden syöttämisen ja lähettämisen.
 
 ![image](https://github.com/user-attachments/assets/0ab5baf8-423f-4988-9cb2-6da1154a97b7)
 
