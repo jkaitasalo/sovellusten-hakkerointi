@@ -42,6 +42,14 @@ Staattisen analyysin kruunaamaton kuningas 'strings' tervehtii meitä!
 
 #### c) Packd. Aja 'packd' paketista ezbin-challenges.zip. Mikä on salasana? Mikä on lippu? (Tämä tehtävä on hieman haastavampi. Kirjaa ylös kokeilemasi lähestymistavat ja keksimäsi hypoteesit. Toivottavasti pääset itse maaliin, mutta jos et, läpikävely paljastuu tunnilla...)
 
+- Lähdin toteuttamaan tehtävää aikaisemmin tutulla `strings packd`, joka ei kuitenkaan tuottanut juurikaan selkeää tulosta.
+- Tämän jälkeen ajattelin lähteä tunnilla aikaisemmin mainitun Ghidran kanssa räpeltämään, mutta ei siitäkään oikein tahtonut mitään tulla.
+  - Käyttöliittymää tarkastellessani uskoakseni huomasin salasanan pyyntöön liittyvää logiikkaa, mutta se oli kaikki hyvinkin salattua:
+ 
+![image](https://github.com/user-attachments/assets/036a2458-3970-4ce1-8b05-8a7e6cf1af94)
+![image](https://github.com/user-attachments/assets/16fbcab1-676d-44f0-b40d-3ae02b54896e)
+
+
 #### d) Vapaaehtoinen bonus: Cryptopals. Crypto Challenge Set 1. Tätä voi tehdä useamman viikon bonuksena. Jos saat ratkaistua kohdat 1 .. "4. Detect single-character XOR", olet jo astunut salakirjoituksen maailmaan.
 
 
@@ -51,3 +59,4 @@ Staattisen analyysin kruunaamaton kuningas 'strings' tervehtii meitä!
 - [How to Use the strings Command on Linux](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)
 - [GCC Documentation](https://gcc.gnu.org/onlinedocs/)
 - [ChatGPT](https://chatgpt.com)
+- [Ghidra dokumentaatio (asennus)](https://ghidra-sre.org/InstallationGuide.html#Requirements)
