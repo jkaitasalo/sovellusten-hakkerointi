@@ -28,4 +28,4 @@ Staattisen analyysin kruunaamaton kuningas 'strings' tervehtii meitä!
 
 - Tehtävänanto [https://terokarvinen.com/application-hacking/](https://terokarvinen.com/application-hacking/#:~:text=katsotaan%20yhdess%C3%A4%20lis%C3%A4%C3%A4.-,h3%20No%20strings%20attached,-Tiesitk%C3%B6%2C%20ett%C3%A4%20bin%C3%A4%C3%A4reist%C3%A4)
 - [How to Use the strings Command on Linux](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)
-- GCC Documentation [https://gcc.gnu.org/onlinedocs/](https://gcc.gnu.org/onlinedocs/)
+- [GCC Documentation](https://gcc.gnu.org/onlinedocs/)
