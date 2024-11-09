@@ -7,7 +7,15 @@ Staattisen analyysin kruunaamaton kuningas 'strings' tervehtii meitä!
 ---
 #### a) Strings. Lataa ezbin-challenges.zip Aja 'passtr'. Selvitä oikea salasana 'strings' avulla. Selvitä myös lippu. (Ensisijaisesti katsomatta sorsia, jos osaat.)
 
-Latasin tehtävänannosta
+- Latasin tehtävänannosta `ezbin-challenges.zip`. Purin tiedoston ja käyttämällä `unzip` -komentoa. Tämän jälkeen navigoin tiedoston sisälle tehtävään `challenges/passtr`.
+- Keulin ja ajoin `strings passtr`, joka palautti liudan rivejä, joiden seasta bongasin rivit `What's the password?`, `sala-hakkeri-321` ja lipun:
+
+![image](https://github.com/user-attachments/assets/ff4ed167-50af-4a5f-9977-252f9a7d70bf)
+
+- Tämän jälkeen luin README.md tiedoston käyttämällä `cat README.md` -komentoa. Ajoin ohjelman komennolla `./passtr`, jolloin ohjelma pyysi salasanaa, jonka annettuani palautti ohjelma minulle lipun!
+
+![image](https://github.com/user-attachments/assets/f6f59675-b2c2-4a00-b346-b6b7e2f68822)
+
 
 #### b) Tee passtr.c -ohjelmasta uusi versio, jossa salasana ei näy suoraan sellaisenaan binääristä. Osoita testillä, että salasana ei näy. (Obfuskointi riittää.)
 
