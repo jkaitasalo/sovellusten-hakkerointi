@@ -28,3 +28,10 @@ Näiden vaiheiden jälkeen oli Ghidra asennettu.
 #### g) Vapaaehtoinen: Ja sen yli. Crackme01 on useampia ratkaisuja. Montako löydät? Miksi?
 #### h) Vapaaehtoinen: Pyytämättäkin. Crackme02 on kaksi ratkaisua. Löydätkö molemmat?
 #### i) Vapaaehtoinen, hieman haastavampi: A ray. Nora crackme02e. Ratkaise binääri.
+
+---
+## Lähteet:
+
+- GHIDRA for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') [YouTube video](https://www.youtube.com/watch?v=oTD_ki86c9I) käyttäjältä John Hammond
+- Ghidra [GitHub](https://github.com/NationalSecurityAgency/ghidra/releases)
+- Ghidra [asennusohje](https://htmlpreview.github.io/?https://github.com/NationalSecurityAgency/ghidra/blob/stable/GhidraDocs/InstallationGuide.html)
