@@ -1,9 +1,10 @@
-## h4 Kääntöpaikka
+## [h4](https://terokarvinen.com/application-hacking/#:~:text=tai%20kirjaston%20toteutusta.-,h4%20K%C3%A4%C3%A4nt%C3%B6paikka,-x)%20Lue/katso) Kääntöpaikka
 
 
 #### x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
-- Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video, noin 20 min)
-- Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools (Usein suositeltu kirja Ghidrasta)
+- Hammond 2022: Ghidra for Reverse Engineering [(PicoCTF 2022 #42 'bbbloat')](https://www.youtube.com/watch?v=oTD_ki86c9I)
+  - Ghidra on NSA:n kehittämä ilmainen avoimen lähdekoodin "reverse engineering" työkalu, joka parhaansa mukaan kääntää ohjelmalle annetun binäärin C++ -kielelle
+- Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools
 
 
 #### a) Asenna Ghidra.
