@@ -3,7 +3,12 @@
 
 #### x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
 - Hammond 2022: Ghidra for Reverse Engineering [(PicoCTF 2022 #42 'bbbloat')](https://www.youtube.com/watch?v=oTD_ki86c9I)
-  - Ghidra on NSA:n kehittämä ilmainen avoimen lähdekoodin "reverse engineering" työkalu, joka parhaansa mukaan kääntää ohjelmalle annetun binäärin C++ -kielelle
+  - Ghidra on NSA:n kehittämä ilmainen avoimen lähdekoodin "reverse engineering" työkalu
+  - Parhaansa mukaan kääntää ohjelmalle annetun binäärin C++ -kielelle
+  - Binäärin avausvaiheessa ohjelma antaa yhteenvedon binääristä
+  - Ohjelma kysyy tahtooko käyttäjä analysoida binääriä (tässä yleisesti oletusvaihtoehdot ovat riittävät)
+  - Ohjelmassa funktiot ja niiden osat voi halutessaan nimetä helpottamaan koodin arviointia ja lukua
+  - Lähes jokainen ohjelman osa decompilerissa ja binäärin listingissä on linkitetty siten, että voi hyppiä eri yhteyksien välillä ja tarkastella niitä
 - Vapaaehtoinen: € Eagle and Nancy 2020: The Ghidra Book: 2. Reversing And Disassembly Tools
 
 
