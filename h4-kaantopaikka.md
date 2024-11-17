@@ -1,4 +1,4 @@
-## [h4]("https://terokarvinen.com/application-hacking/#:~:text=tai%20kirjaston%20toteutusta.-,h4%20K%C3%A4%C3%A4nt%C3%B6paikka,-x)%20Lue/katso") Kääntöpaikka
+## [h4](https://terokarvinen.com/application-hacking/#:~:text=tai%20kirjaston%20toteutusta.-,h4,-K%C3%A4%C3%A4nt%C3%B6paikka) Kääntöpaikka
 
 
 #### x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
