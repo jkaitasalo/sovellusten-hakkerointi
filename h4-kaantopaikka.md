@@ -15,6 +15,7 @@
 #### a) Asenna Ghidra.
 
 Asensin viimeviikon tehtävien yhteydessä Ghidran virtuaalikoneeseeni. Käytän Debian 12-bookwormia, joten minun piti ensin asentaa openjdk, jonka jälkeen asensin Ghidran sen omilta sivuilta [GitHubista](https://github.com/NationalSecurityAgency/ghidra/releases). Tämän jälkeen minun piti vielä erikseen määrittää openjdk:lle `~PATH` muuttuja, jonka tein Ghidran asennusohjeen mukaisesti:
+
 ![image](https://github.com/user-attachments/assets/151b0142-fbe5-4a58-a55f-fd9afed388d1)
 Näiden vaiheiden jälkeen oli Ghidra asennettu.
 
