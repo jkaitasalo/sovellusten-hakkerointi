@@ -13,6 +13,11 @@
 
 
 #### a) Asenna Ghidra.
+
+Asensin viimeviikon tehtävien yhteydessä Ghidran virtuaalikoneeseeni. Käytän Debian 12-bookwormia, joten minun piti ensin asentaa openjdk, jonka jälkeen asensin Ghidran sen omilta sivuilta [GitHubista](https://github.com/NationalSecurityAgency/ghidra/releases). Tämän jälkeen minun piti vielä erikseen määrittää openjdk:lle `~PATH` muuttuja, jonka tein Ghidran asennusohjeen mukaisesti:
+![image](https://github.com/user-attachments/assets/151b0142-fbe5-4a58-a55f-fd9afed388d1)
+Näiden vaiheiden jälkeen oli Ghidra asennettu.
+
 #### b) rever-C. Käänteismallinna packd-binääri C-kielelle Ghidralla. Etsi pääohjelma. Anna muuttujielle kuvaavat nimet. Selitä ohjelman toiminta. Ratkaise tehtävä binääristä, ilman alkuperäistä lähdekoodia. ezbin-challenges.zip
 #### c) Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean. Osoita testein, että ohjelma toimii. ezbin-challenges.zip
 #### d) Nora CrackMe: Käännä binääreiksi Tindall 2023: NoraCodes / crackmes. Lue README.md: älä katso lähdekoodeja, ellet tarvitse niitä apupyöriksi. Näissä tehtävissä binäärejä käänteismallinnetaan. Binäärejä ei muokata, koska muutenhan jokaisen tehtävän ratkaisu olisi vaihtaa palautusarvoksi "return 0".
