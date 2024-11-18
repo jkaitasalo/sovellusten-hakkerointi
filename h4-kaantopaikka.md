@@ -25,6 +25,13 @@ Näiden vaiheiden jälkeen oli Ghidra asennettu.
 
 #### b) rever-C. Käänteismallinna packd-binääri C-kielelle Ghidralla. Etsi pääohjelma. Anna muuttujielle kuvaavat nimet. Selitä ohjelman toiminta. Ratkaise tehtävä binääristä, ilman alkuperäistä lähdekoodia. ezbin-challenges.zip
 
+![image](https://github.com/user-attachments/assets/70100a14-517c-4cdc-a232-f0c962a930fe)
+
+![image](https://github.com/user-attachments/assets/39526217-af20-42ab-952a-9f49b25a8699)
+
+![image](https://github.com/user-attachments/assets/d2a51b59-a2da-428f-8810-4cefdf053e78)
+
+
 
 
 #### c) Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean. Osoita testein, että ohjelma toimii. ezbin-challenges.zip
@@ -32,7 +39,6 @@ Näiden vaiheiden jälkeen oli Ghidra asennettu.
 Ghidra tuo binäärin suoraan "Executable and Linking Format (ELF)" muodossa.
 
 ![image](https://github.com/user-attachments/assets/e21debad-44ed-449b-a349-ae37e903da3b)
-
 
 Muutetaan se siten, että saadaan raa'assa binäärimudossa:
 
@@ -65,9 +71,8 @@ Seuraavaksi navigoin terminaalilla työkansioon testatakseni ohjelman toimivuutt
 Kuten huomata saattaa, sovellus toimii käänteisesti, kuten oli tarkoitus!
 
 
+
 #### d) Nora CrackMe: Käännä binääreiksi Tindall 2023: NoraCodes / crackmes. Lue README.md: älä katso lähdekoodeja, ellet tarvitse niitä apupyöriksi. Näissä tehtävissä binäärejä käänteismallinnetaan. Binäärejä ei muokata, koska muutenhan jokaisen tehtävän ratkaisu olisi vaihtaa palautusarvoksi "return 0".
-
-
 
 #### e) Nora crackme01. Ratkaise binääri.
 
