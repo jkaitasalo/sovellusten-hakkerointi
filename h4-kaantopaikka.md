@@ -36,39 +36,42 @@ Näiden vaiheiden jälkeen oli Ghidra asennettu.
 
 #### c) Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean. Osoita testein, että ohjelma toimii. ezbin-challenges.zip
 
-Ghidra tuo binäärin suoraan "Executable and Linking Format (ELF)" muodossa.
+- Ghidra tuo binäärin suoraan "Executable and Linking Format (ELF)" muodossa.
 
 ![image](https://github.com/user-attachments/assets/e21debad-44ed-449b-a349-ae37e903da3b)
 
-Muutetaan se siten, että saadaan raa'assa binäärimudossa:
+- Muutetaan se siten, että saadaan raa'assa binäärimudossa:
 
 ![image](https://github.com/user-attachments/assets/e86413ee-2ae2-4a99-b866-1937c91fca6f)
 
-Käytin Ghidran hakutoimintoa (pikanäppäin s), jolla hain Stringejä ja käytin hakusanaa "password" ja kaksoisklikkaamalla hakutulosta pääsin kohtaan jossa se sijaitsi.
+- Käytin Ghidran hakutoimintoa (pikanäppäin s), jolla hain Stringejä ja käytin hakusanaa "password"
+- Kaksoisklikkaamalla hakutulosta pääsin kohtaan jossa se sijaitsi.
 
 ![image](https://github.com/user-attachments/assets/fd880fb4-373a-489c-870c-2d80107a58d6)
 
-Pienen verran jouduin skrollaamaan, jotta löysin funktion ruudultani, mutta se kuitenkin löytyi
+- Pienen verran jouduin skrollaamaan, jotta löysin funktion ruudultani, mutta se kuitenkin löytyi
 
 ![image](https://github.com/user-attachments/assets/ee72c713-d7e4-4bc6-b0d9-4365e6f54ba7)
 
-Avasin ohjelman yläpalkista "Display Function Graph", joka näyttää funktion ikäänkuin taulukkomuodossa. Tuosta näkymästä pystyy myös napauttamaan viittauksia ja hyppäämään niiden kohtiin, joten hyppäsin kohtaan jossa funktio siirtyy ohjelman ajossa vastauksen antamiseen. Tuo kohta on funktiossa JNZ, "Jump Not Zero"
+- Avasin ohjelman yläpalkista "Display Function Graph", joka näyttää funktion ikäänkuin taulukkomuodossa. Tuosta näkymästä pystyy myös napauttamaan viittauksia ja hyppäämään niiden kohtiin, joten hyppäsin kohtaan jossa funktio siirtyy ohjelman ajossa vastauksen antamiseen. Tuo kohta on funktiossa JNZ, "Jump Not Zero"
 
 ![image](https://github.com/user-attachments/assets/2505f8c7-0e50-4eac-b661-3b636bc30648)
 
-Muutin (Patch Instruction Ctrl+Shift+G) JNZ -> JZ, jolloin ohjelma hyppäisi tavallaan päinvastoin sen normaalitoimintaa.
+- Muutin (Patch Instruction Ctrl+Shift+G) JNZ -> JZ, jolloin ohjelma hyppäisi tavallaan päinvastoin sen normaalitoimintaa.
 
 ![image](https://github.com/user-attachments/assets/882ae9c3-c8ef-4dcc-aaf2-018c68e3dd4a)
 
-Tämän jälkeen exporttasin ohjelman työkansioon (pikanäppäin o) Original File muodossa.
+- Tämän jälkeen exporttasin ohjelman työkansioon (pikanäppäin o) Original File muodossa.
 
 ![image](https://github.com/user-attachments/assets/81448844-3fce-4183-b670-25c9f0c4b8f7)
 
-Seuraavaksi navigoin terminaalilla työkansioon testatakseni ohjelman toimivuutta. Tässä kohtaa ohjelma näkyi terminaalissa valkoisena, joka ymmärtääkseni tarkoittaa sitä, että sitä ei voi lähtökohtaisesti tästä ajaa. `chmod +x ./passtr_bin` komennolla muutin tiedoston ajettavaksi, jonka jälkeen sitä pääsi testaamaan.
+- Seuraavaksi navigoin terminaalilla työkansioon testatakseni ohjelman toimivuutta.
+- Tässä kohtaa ohjelma näkyi terminaalissa valkoisena, joka ymmärtääkseni tarkoittaa sitä, että sitä ei voi lähtökohtaisesti tästä ajaa.
+- `chmod +x ./passtr_bin` komennolla muutin tiedoston ajettavaksi, jonka jälkeen sitä pääsi testaamaan.
 
 ![image](https://github.com/user-attachments/assets/5c115f0e-e705-4bfd-ae08-909d17260963)
 
-Kuten huomata saattaa, sovellus toimii käänteisesti, kuten oli tarkoitus!
+- Kuten huomata saattaa, sovellus toimii käänteisesti, kuten oli tarkoitus!
 
 
 
