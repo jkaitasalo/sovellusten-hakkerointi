@@ -15,4 +15,4 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 
 ---
 ## Lähteet:
-Tehtävänanto: [https://terokarvinen.com/application-hacking/](https://terokarvinen.com/application-hacking/#:~:text=ainakin%20brittil%C3%A4isiss%C3%A4%20yliopistoissa.-,h5,-Se%20el%C3%A4%C3%A4!)
+
