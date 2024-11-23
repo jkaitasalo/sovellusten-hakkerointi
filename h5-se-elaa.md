@@ -5,3 +5,7 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 #### b) Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi. lab2.zip
 #### c) Lab3. Kokeile Nora Crackmes harjoituksia tehtävä 3 ja 4 ja loput vapaaehtoisia. Tindall 2023: NoraCodes / crackmes.
 #### d) Lab4. Vapaaehtoinen: Crackmes.one harjoitus. Saatko salasanan selville? lab4.zip Moodlessa.
+
+---
+## Lähteet:
+[Tehtävät](https://terokarvinen.com/application-hacking/#:~:text=ainakin%20brittil%C3%A4isiss%C3%A4%20yliopistoissa.-,h5,-Se%20el%C3%A4%C3%A4!)
