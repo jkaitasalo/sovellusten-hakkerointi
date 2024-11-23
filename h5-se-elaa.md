@@ -16,8 +16,9 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 
 ![image](https://github.com/user-attachments/assets/3b276772-6d05-4bb6-a3ed-c94b2404887e)
 
-
-
+- Ohjelma näyttäisi koostuvan funktiosta `print_scrambled`, jota kutsutaan kahdesti `main()` ajon aikana
+  - Funktio ajaa do-while silmukan, joka iteroi annetun stringin jokaisen merkin
+  - funktio tulostaa merkit, niiden ascii paikkaa muutettuna i:n arvolla (3), kunnes stringissä ei ole merkkejä jäljellä
 
 #### b) Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi. [lab2.zip](https://terokarvinen.com/application-hacking/lab2.zip)
 
@@ -30,3 +31,4 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 ---
 ## Lähteet:
 
+W3Schools - [C](https://www.w3schools.com/c/index.php)
