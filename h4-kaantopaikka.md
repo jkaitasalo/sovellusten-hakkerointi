@@ -29,7 +29,7 @@ Näiden vaiheiden jälkeen oli Ghidra asennettu.
 
 ![image](https://github.com/user-attachments/assets/39526217-af20-42ab-952a-9f49b25a8699)
 
-![image](https://github.com/user-attachments/assets/d2a51b59-a2da-428f-8810-4cefdf053e78)
+![image](https://github.com/user-attachments/assets/bd218ea8-e2f4-4aa8-82c3-e53f1533f03b)
 
 
 
