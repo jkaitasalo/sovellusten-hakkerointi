@@ -3,7 +3,7 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 
 ---
 #### a) Lab1. Tutkiminen mikä on ohjelmassa vialla ja miten se korjataan. [lab1.zip](https://terokarvinen.com/application-hacking/lab1.zip)
-https://terokarvinen.com/application-hacking/lab2.zip
+
 
 #### b) Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi. [lab2.zip](https://terokarvinen.com/application-hacking/lab2.zip)
 
