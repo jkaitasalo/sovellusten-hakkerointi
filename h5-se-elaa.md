@@ -11,7 +11,7 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 
 - Ajattelin, että tässä kohtaa olisi hyvä idea vilkaista mitä koodia tiedosto sisältää käyttämällä komentoa `list`
 - Tuota komentoa sai pari kertaa napauttaa, jotta saatiin näkyviin koko koodi.
-  - Ohjelma kertoo rivin 20 jälkeen ajetun komennon jälkeen, että lisää koodia ei ole `"Line number 21 out of range; gdb_example1.c has 20 lines."`
+  - Ohjelma kertoo rivin 20 jälkeen ajetun komennon jälkeen, että lisää koodia ei ole <br>`"Line number 21 out of range; gdb_example1.c has 20 lines."`
   - Uskoisin tuon rivimäärän selviävän jollain toisella Linux komennolla, mutta tähän hätään sitä en tullut ajatelleeksi
 
 ![image](https://github.com/user-attachments/assets/3b276772-6d05-4bb6-a3ed-c94b2404887e)
