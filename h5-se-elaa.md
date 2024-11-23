@@ -1,4 +1,4 @@
-## h5 Se elää!
+## [h5](https://terokarvinen.com/application-hacking/#:~:text=ainakin%20brittil%C3%A4isiss%C3%A4%20yliopistoissa.-,h5,-Se%20el%C3%A4%C3%A4!) Se elää!
 Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtäviä.
 
 #### a) Lab1. Tutkiminen mikä on ohjelmassa vialla ja miten se korjataan. lab1.zip
