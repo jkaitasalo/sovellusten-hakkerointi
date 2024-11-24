@@ -19,6 +19,19 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 - Ohjelma näyttäisi koostuvan funktiosta `print_scrambled`, jota kutsutaan kahdesti `main()` ajon aikana
   - Funktio ajaa do-while silmukan, joka iteroi annetun stringin jokaisen merkin
   - funktio tulostaa merkit, niiden ascii paikkaa muutettuna i:n arvolla (3), kunnes stringissä ei ole merkkejä jäljellä
+- Tässä kohtaa ajoin ohjelman sellaisenaan tutkiakseni havaintoja ja huomasinkin, että ohjelman ajo päättyy virhetilanteeseen ensimmäisen tulostuksen jälkeen.
+
+![image](https://github.com/user-attachments/assets/e29bbcc2-26ce-419f-8010-9937f6ee513a)
+
+- `micro gdb_example.c` pääsin muokkaamaan ohjelman rivin 14 `NULL` tilalle merkkijonon `fixed`, jonka jälkeen ajoin `make` komennolla binäärin uudestaan kasaan.
+
+![image](https://github.com/user-attachments/assets/3038256c-f44f-44f8-8a09-b4f81f43c063)
+
+![image](https://github.com/user-attachments/assets/fc0b092a-8d0a-4738-b50c-457c2a1a8e6e)
+
+- Näyttäisi siltä, että ajatukseni osuivat oikeaan!
+
+
 
 #### b) Lab2. Selvitä salasana ja lippu + kirjoita raportti siitä miten aukesi. [lab2.zip](https://terokarvinen.com/application-hacking/lab2.zip)
 
