@@ -29,7 +29,7 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 
 ![image](https://github.com/user-attachments/assets/fc0b092a-8d0a-4738-b50c-457c2a1a8e6e)
 
-- Näyttäisi siltä, että ajatukseni osuivat oikeaan! `Hello, world.` string tulostetaan tuolla ASCII muutoksella, jolloin ensimmäinen tulostettava merkki on kuin onkin K jne.
+- Näyttäisi siltä, että ajatukseni osuivat oikeaan! `Hello, world.` string tulostetaan tuolla ASCII muutoksella, jolloin ensimmäinen tulostettava merkki on kuin onkin `K` jne.
 
 
 
