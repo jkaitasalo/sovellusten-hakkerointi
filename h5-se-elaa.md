@@ -75,3 +75,4 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 - Lari Iso-Anttilan opiskelijoille jakamat kalvot
 - W3Schools - [C](https://www.w3schools.com/c/index.php)
 - ASCII [Table](https://www.asciitable.com/)
+- ChatGPT
