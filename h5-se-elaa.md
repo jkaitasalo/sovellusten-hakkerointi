@@ -44,5 +44,5 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 ---
 ## Lähteet:
 
-W3Schools - [C](https://www.w3schools.com/c/index.php)
-ASCII [Table](https://www.asciitable.com/)
+- W3Schools - [C](https://www.w3schools.com/c/index.php)
+- ASCII [Table](https://www.asciitable.com/)
