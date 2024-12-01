@@ -28,6 +28,7 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 ![image](https://github.com/user-attachments/assets/79c24822-d291-4cb4-a3dd-fc845068f1e7)
 
 - Komennon piirtämässä kaaviossa näkyy aika syvä kyykkäys noin puolessa välissä.
+- `binwalk -e h1.jpg` purki kuvan auki, jolla pääsin tarkastelemaan .xml tiedostoja
 
 
 
@@ -37,3 +38,8 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 - JADX
 - Bytecode-viewer
 #### d) Vapaaehtoinen: Tutustu ESP32-projekteihin Covarrubias 2024: [Awesome ESP](https://github.com/agucova/awesome-esp). Valitse niistä itsellesi mielenkiintoisin projekti. Tutki, miten saat avattua ESP32 binäärin. Kirjoita raporttiin mitä applikaatiota tutkit ja mitä tietoja sait selvitettyä käännetystä paketista. Tarvittaessa voit verrata, vastaako tieto githubissa olevaa koodia.
+
+
+---
+## Lähteet:
+- [ReFirmLabs binwalk GitHub](https://github.com/ReFirmLabs/binwalk?tab=readme-ov-file)
