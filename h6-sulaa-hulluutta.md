@@ -12,7 +12,20 @@ Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtävi�
 - kuvan resoluutio 1024x1024 pikseliä eli 1:1 neliön mallinen
 - `precision 8` ja `components 3` viittaa RGB 256 värikuvaan
 
+
 #### b) Tutki tiedostoa h1.jpg binwalk:lla. Mitä tietoja löydät nyt tiedostosta? Mitä työkalua käyttäisit tiedostojen erottamiseen? (Huomaa, että binwalk versio 2.x ja 3.x toimivat eri tavalla.)
+
+- `sudo apt-get install binwalk` komennolla sain asennettua binwalkin virtuaalikoneeseen
+- `binwalk h1.jpg` täräytti ruudulle läjän dataa:
+- Tuloksista voimme huomata, että kuvaan on piilotettu ZIP-tiedostoja, jotka sisältävät erilaisia .xml tiedostoja
+
+![image](https://github.com/user-attachments/assets/0e50db4c-b050-4b6f-abbe-68f47e0befb5)
+
+- Seuraavaksi kävin hieman `man binwalk` (manuaali), sekä `binwalk -h` (help) komennoilla selaamassa ohjelman eri toimintoja ja törmäsin `-E` (entropy) ominaisuuteen ja päätin testata miltä se näyttää:
+
+![image](https://github.com/user-attachments/assets/c7f11aff-0fe5-445c-bb99-0229e9ec7480)![image](https://github.com/user-attachments/assets/79c24822-d291-4cb4-a3dd-fc845068f1e7)
+
+
 #### c) FOSS (Free Android OpenSource). Tutustu Android-sovelluksiin Offan (2024) listalta: [Android FOSS](https://github.com/offa/android-foss). Valitse listalla itsellesi mielenkiintoisin applikaatio ja mene sen GitHubiin. Lataa ohjelman APK itsellesi ja käytä seuraavia työkaluja tutustuaksesi, miten APK:n voi avata.
 - ZIP
 - JADX
