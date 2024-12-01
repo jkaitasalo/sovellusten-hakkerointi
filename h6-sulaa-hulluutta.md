@@ -1,4 +1,4 @@
-## h6 Sulaa hulluutta
+## [h6](https://terokarvinen.com/application-hacking/#:~:text=kalvot%20l%C3%B6ytyv%C3%A4t%20Moodlesta-,h6,-Sulaa%20hulluutta) Sulaa hulluutta
 Tämä tehtävänanto sisältää pääosin Lari Iso-Anttilan laatimia tehtäviä.
 
 #### a) Tutki tiedostoa h1.jpg jo opituilla työkaluilla. Mitä saat selville?
