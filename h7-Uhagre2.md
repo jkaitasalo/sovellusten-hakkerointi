@@ -138,4 +138,5 @@ Itselleni muistiin tämä:
 
 ---
 ## Lähteet:
-- 
+- [Tero Karvinen: Python For Hackers](https://terokarvinen.com/python-for-hackers/)
+- [O'Reilly](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec001)
