@@ -56,6 +56,9 @@
   - Todennäköisyys kuolla salamaniskuun (per päivä) = 1 : 9 000 000 000 (2^33)
   - Todennäköisyys voittaa pääpotti lotossa (yhdysvallat) = 1 : 4 000 000 (2^22)
   - Todennäköisyys, että molemmat yllä olevat tapahtuvat sinulle samana päivänä = 1 : 2^55
+  - Planeetamme ikä = 10^9 (2^30) vuotta
+  - Atomien lukumäärä auringossa = 10^57 (2^190)
+  - jne...
 
 
 - Karvinen 2024: [Python Basics for Hackers](https://terokarvinen.com/python-for-hackers/)
