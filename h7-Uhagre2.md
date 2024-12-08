@@ -111,13 +111,17 @@ Itselleni muistiin tämä:
 | 1   | 1   | 0       | Here XOR is different from OR |
 | 0   | 1   | 1       |                               |
 
+- yleisimmät kirjaimet:
+  - ETAOIN SHRDLU (englanti)
+  - AINTE SLOUK (suomi)
 
 
+---
 - Vapaaehtoinen: Karvinen 2024: [Get Started Micro Editor](https://terokarvinen.com/get-started-micro-editor/)
 - Vapaaehtoinen: Karvinen 2024: [Getting Started with Cryptopals using Python](https://terokarvinen.com/getting-started-python-cryptopals/)
   - Mutta ei tietenkään niitä "click to expand" alle piilotettuja vinkkejä, niitä kannattaa katsoa vain tarvittaessa. Osa ei tarvitse niitä ollenkaan.
 
-
+---
 #### Ratkaise [CryptoPals Set 1](https://cryptopals.com/sets/1) -haasteet. Tehtävät saa ratkaista millä vain ohjelmointikielellä ja käyttää mitä tahansa tekstieditoria tai IDE:ä. Tehtäviä ei kannata ratkaista tekoälyllä, koska se vain kopioi malliratkaisun suoraan koulutusmateriaalistaan.
 
 - a) 1. Convert hex to base64.
@@ -125,7 +129,8 @@ Itselleni muistiin tämä:
 - c) 3. Single-byte XOR cipher.
 - d) 4. Detect single-character XOR.
   - Tämän tehtävän ratkaiseminen yleensä ilahduttaa.
-
+  - 
+---
 - e) Vapaaehtoinen, suositeltava: 5. Implement repeating-key XOR.
 - g) Vapaaehtoinen: 6. Break repeating-key XOR.
 - h) Vapaaehtoinen: 7. AES in ECB mode.
