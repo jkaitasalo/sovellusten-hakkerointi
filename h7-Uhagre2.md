@@ -42,14 +42,12 @@
   - koodin käyttä on hyvinkin spesifiä ja hyödyllistä vain siihen tarkoitetuissa tilanteissa
   - cipherit ovat hyödyllisiä ja käytettäviä mihin tahansa vain
 
-
 1.4 Simple XOR
 - XOR = exclusive-or operation
 - hyvin huono turvallisuus
 - datan XOR:aus tuottaa salatun tekstin, mutta tämä cipher XOR:attuna uudestaan tuottaa plaintextin XOR luonteen takia
 - vaikka XOR salauksessa käyttää avainta, sen murtaminen on nykytietokoneilla erittäin nopeaa
   - Index of Coincidence
-
 
 1.7 Large Numbers
 - cryptografiassa ilmeisesti pyöritellään massiivisia lukuja, sillä Large Numbers kappaleessa listalla on mm:
@@ -61,7 +59,58 @@
   - jne...
 
 
+
 - Karvinen 2024: [Python Basics for Hackers](https://terokarvinen.com/python-for-hackers/)
+- historia, ylänuolella
+- tab completion, tabulaattorilla. 2x Tab -> antaa vaihtoehtoja
+- ? symbolin perässä antaa "reference documentation"
+- ?? antaa lähdekoodin
+- 2x Ctrl+D poistuu ohjelmasta
+- Micro koodieditorilla F5 compile. Nopeampaa, kuin koodin kirjoitus editorilla ja sen jälkeen valmiin koodin ajo terminaalista.
+  - toimii parhaiten lyhyissä ohjelmissa
+```
+$ sudo apt-get update
+$ sudo apt-get -y install micro
+$ micro --plugin install runit
+```
+- Python tukee suoraan erilaisia funktioita, joten matematiikkaa on helppo tehdä sen avulla
+- Modulus (jakojäännös) on yleinen obfuskaatiossa käytetty metodi `(13 % 12 = 1)`
+- char 0 =/= num 0
+  - ord("T") = 84
+  - chr(84) = 'T'
+- hex(84) = '0x54'
+- bin(84) = '0b1010100'
+- oct(84) = '0o124'
+- f-string `print(f"See you at {var}"`
+- f-string `print(f"See you at {2+2} pm"`
+```
+for planet in ['Mercury', 'Venus', 'Earth', 'Mars']:
+print(planet)
+```
+Itselleni muistiin tämä:
+```
+>>> ord("R")
+82
+>>> ord("R")+1
+83
+>>> chr(ord("R")+1)
+'S'
+```
+- print debugging
+  - "ylimääräisten" print kutsujen käyttö, jolla voidaan seurata esim. muuttujien arvojen muuttumista ohjelman suorituksen eri vaiheissa
+  - vaikeimmissa jutuissa kannattaa käyttää oikeaa debuggeria ja breakpoint() kutsua
+- .split() jakaa stringin listaksi
+- list(enumerate([])) antaa listan olioiden indexit
+- type(esim) antaa esim tyypin esim. str
+- XOR totuustaulukko:
+
+| a   | b   | a XOR b | Comment                       |
+| --- | --- | ------- | ----------------------------- |
+| 0   | 0   | 0       |                               |
+| 1   | 0   | 1       |                               |
+| 1   | 1   | 0       | Here XOR is different from OR |
+| 0   | 1   | 1       |                               |
+
 
 
 - Vapaaehtoinen: Karvinen 2024: [Get Started Micro Editor](https://terokarvinen.com/get-started-micro-editor/)
