@@ -138,6 +138,8 @@ Tämä oli aika tylsää, mutta tuon vastauksen alta löytyi linkkejä pythonin 
 
 ![image](https://github.com/user-attachments/assets/5a6893f5-7e0a-4383-815d-9bfddc738160)
 
+Hexan takaa löytyi hassu tekstin pätkä `"I'm killing your brain like a poisonous mushroom"`
+
 ![image](https://github.com/user-attachments/assets/c7527dcc-4e89-4eb9-af59-ae6a03c1942d)
 
 ![image](https://github.com/user-attachments/assets/e49766d0-3774-4344-9649-73544af4e03e)
