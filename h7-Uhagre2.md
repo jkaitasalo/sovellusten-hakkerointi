@@ -126,19 +126,17 @@ Itselleni muistiin tämä:
 
 - a) 1. Convert hex to base64.
 
-Alustin microlla tehtävän:
+Tehtävän "ratkaisuun" löytyi netistä nopeasti aikalailla suora vastaus:
 
 ![image](https://github.com/user-attachments/assets/08710773-162b-46ba-b0fd-13d694263617)
 
 ![image](https://github.com/user-attachments/assets/5881a97d-e4ab-4fef-b29d-d68a5e145ce5)
 
-Tehtävän "ratkaisuun" löytyi netistä nopeasti aikalailla suora vastaus:
+Tämä oli aika tylsää, mutta tuon vastauksen alta löytyi linkkejä pythonin dokumentaatioon. Tuolta sai vähän paremmin kiinni, miten tuota voi lähteä myös purkamaan.
 
 ![image](https://github.com/user-attachments/assets/d9a400db-1b29-4474-bc28-5ed41fff651f)
 
 ![image](https://github.com/user-attachments/assets/5a6893f5-7e0a-4383-815d-9bfddc738160)
-
-Tämä oli aika tylsää, mutta tuon vastauksen alta löytyi linkkejä pythonin dokumentaatioon. Tuolta sai vähän paremmin kiinni, miten tuota voi lähteä myös purkamaan.
 
 ![image](https://github.com/user-attachments/assets/c7527dcc-4e89-4eb9-af59-ae6a03c1942d)
 
