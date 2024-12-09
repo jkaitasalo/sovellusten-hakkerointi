@@ -125,6 +125,20 @@ Itselleni muistiin tämä:
 #### Ratkaise [CryptoPals Set 1](https://cryptopals.com/sets/1) -haasteet. Tehtävät saa ratkaista millä vain ohjelmointikielellä ja käyttää mitä tahansa tekstieditoria tai IDE:ä. Tehtäviä ei kannata ratkaista tekoälyllä, koska se vain kopioi malliratkaisun suoraan koulutusmateriaalistaan.
 
 - a) 1. Convert hex to base64.
+
+![image](https://github.com/user-attachments/assets/08710773-162b-46ba-b0fd-13d694263617)
+
+![image](https://github.com/user-attachments/assets/5881a97d-e4ab-4fef-b29d-d68a5e145ce5)
+
+![image](https://github.com/user-attachments/assets/d9a400db-1b29-4474-bc28-5ed41fff651f)
+
+![image](https://github.com/user-attachments/assets/5a6893f5-7e0a-4383-815d-9bfddc738160)
+
+![image](https://github.com/user-attachments/assets/c7527dcc-4e89-4eb9-af59-ae6a03c1942d)
+
+![image](https://github.com/user-attachments/assets/e49766d0-3774-4344-9649-73544af4e03e)
+
+
 - b) 2. Fixed XOR.
 - c) 3. Single-byte XOR cipher.
 - d) 4. Detect single-character XOR.
@@ -140,3 +154,5 @@ Itselleni muistiin tämä:
 ## Lähteet:
 - [Tero Karvinen: Python For Hackers](https://terokarvinen.com/python-for-hackers/)
 - [O'Reilly](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec001)
+- https://docs.python.org/3/library/stdtypes.html#bytes.fromhex
+- https://docs.python.org/3/library/base64.html#base64.b64encode
