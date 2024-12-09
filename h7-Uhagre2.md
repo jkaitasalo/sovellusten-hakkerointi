@@ -162,3 +162,4 @@ Hexan takaa löytyi hassu tekstin pätkä `"I'm killing your brain like a poison
 - [O'Reilly](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec001)
 - https://docs.python.org/3/library/stdtypes.html#bytes.fromhex
 - https://docs.python.org/3/library/base64.html#base64.b64encode
+- https://www.geeksforgeeks.org/encoding-and-decoding-base64-strings-in-python/
